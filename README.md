@@ -1,4 +1,4 @@
-# CINO-TextGCN：融合预训练模型CINO和图神经网络TextGCN的藏文文本分类模型
+# CINO-TextGCN：融合CINO与TextGCN的藏文新闻文本分类模型
 ## TNCC数据集具体数量
 ![image](https://user-images.githubusercontent.com/16609877/194299748-5852363f-b0e0-4473-a5d5-f8d8e0eb0b72.png)
 ## TNEWS数据集具体数量
